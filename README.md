@@ -109,9 +109,9 @@ With more time, we'd love to add:
 
 ## 👥 Team
 
-- @yuyuhiei
-- @Miguel2604
-- @keanlouis30
+- [yuyuhiei](https://github.com/yuyuhiei)
+- [Miguel2604](https://github.com/Miguel2604)
+- [keanlouis30](https://github.com/keanlouis30)
 
 ---
 
